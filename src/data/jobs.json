@@ -636,6 +636,96 @@
           "Skills in revenue enhancement: segmentation, cross-sell, up-sell, offer recommendations, loyalty programs, LTV maximization, and churn prevention."
         ],
         "applyLink": "https://upsc.gov.in"
+      },
+      {
+        "id": "41",
+        "companyImage": "/images/amazon.png",
+        "companyName": "Amazon",
+        "jobRole": "Software Trainee",
+        "postDate": "2024-10-16",
+        "category": "Aborad Job",
+        "experience": "0-1 years",
+        "qualification": "B.TECH - CSE, M.TECH 2022/2023/2024",
+        "skills": ["HTML", "CSS", "JavaScript", "Java", "SQL"],
+        "jobDescription": [
+          "1+ years of data analytics or automation experience",
+          "Knowledge of data pipelining and extraction using SQL",
+          "Knowledge of SQL and Excel at a moderate or advanced level"
+        ],
+        "jobLink": "https://www.amazon.jobs",
+        "telegramLink": "https://t.me/amazon-jobs"
+      },
+      {
+        "id": "42",
+        "companyImage": "/images/amazon.png",
+        "companyName": "zoho",
+        "jobRole": "Software Trainee",
+        "postDate": "2024-01-01",
+        "category": "Aborad Job",
+        "experience": "0-1 years",
+        "qualification": "B.TECH - CSE, M.TECH 2022/2023/2024",
+        "skills": ["HTML", "CSS", "JavaScript", "Java", "SQL"],
+        "jobDescription": [
+          "1+ years of data analytics or automation experience",
+          "Knowledge of data pipelining and extraction using SQL",
+          "Knowledge of SQL and Excel at a moderate or advanced level"
+        ],
+        "jobLink": "https://www.amazon.jobs",
+        "telegramLink": "https://t.me/amazon-jobs"
+      },
+      {
+        "id": "43",
+        "companyImage": "/images/amazon.png",
+        "companyName": "zoom",
+        "jobRole": "Software Trainee",
+        "postDate": "2023-10-16",
+        "category": "Aborad Job",
+        "experience": "0-1 years",
+        "qualification": "B.TECH - CSE, M.TECH 2022/2023/2024",
+        "skills": ["HTML", "CSS", "JavaScript", "Java", "SQL"],
+        "jobDescription": [
+          "1+ years of data analytics or automation experience",
+          "Knowledge of data pipelining and extraction using SQL",
+          "Knowledge of SQL and Excel at a moderate or advanced level"
+        ],
+        "jobLink": "https://www.amazon.jobs",
+        "telegramLink": "https://t.me/amazon-jobs"
+      },
+      {
+        "id": "44",
+        "companyImage": "/images/google.png",
+        "companyName": "Amazon",
+        "jobRole": "Software Trainee intern",
+        "postDate": "2024-10-16",
+        "category": "Aborad Job",
+        "experience": "0-1 years",
+        "qualification": "B.TECH - CSE, M.TECH 2022/2023/2024",
+        "skills": ["HTML", "CSS", "JavaScript", "Java", "SQL"],
+        "jobDescription": [
+          "1+ years of data analytics or automation experience",
+          "Knowledge of data pipelining and extraction using SQL",
+          "Knowledge of SQL and Excel at a moderate or advanced level"
+        ],
+        "jobLink": "https://www.amazon.jobs",
+        "telegramLink": "https://t.me/amazon-jobs"
+      },
+      {
+        "id": "45",
+        "companyImage": "/images/ibm.png",
+        "companyName": "IBM",
+        "jobRole": " Trainee",
+        "postDate": "2024-10-16",
+        "category": "Aborad Job",
+        "experience": "0-1 years",
+        "qualification": "B.TECH - CSE, M.TECH 2022/2023/2024",
+        "skills": ["HTML", "CSS", "JavaScript", "Java", "SQL"],
+        "jobDescription": [
+          "1+ years of data analytics or automation experience",
+          "Knowledge of data pipelining and extraction using SQL",
+          "Knowledge of SQL and Excel at a moderate or advanced level"
+        ],
+        "jobLink": "https://www.amazon.jobs",
+        "telegramLink": "https://t.me/amazon-jobs"
       }
       
       
